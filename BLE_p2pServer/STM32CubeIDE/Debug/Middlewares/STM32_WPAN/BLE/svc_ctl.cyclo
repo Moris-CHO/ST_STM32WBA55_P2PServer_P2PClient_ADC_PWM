@@ -1,0 +1,5 @@
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Middlewares/ST/STM32_WPAN/ble/svc/Src/svc_ctl.c:65:6:SVCCTL_Init	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Middlewares/ST/STM32_WPAN/ble/svc/Src/svc_ctl.c:83:6:SVCCTL_RegisterSvcHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Middlewares/ST/STM32_WPAN/ble/svc/Src/svc_ctl.c:100:6:SVCCTL_RegisterCltHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Middlewares/ST/STM32_WPAN/ble/svc/Src/svc_ctl.c:117:6:SVCCTL_RegisterHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Middlewares/ST/STM32_WPAN/ble/svc/Src/svc_ctl.c:129:28:SVCCTL_UserEvtRx	9

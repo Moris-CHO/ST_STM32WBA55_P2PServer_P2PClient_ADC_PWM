@@ -1,0 +1,26 @@
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_pwr.h:850:22:LL_PWR_SetICacheRAMStopRetention	16	static
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_icache.h:219:22:LL_ICACHE_Enable	4	static
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_icache.h:252:22:LL_ICACHE_SetMode	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:133:5:main	24	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:248:6:SystemClock_Config	104	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:323:6:PeriphCommonClock_Config	80	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:343:6:MX_ADC4_Init	24	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:421:6:MX_CRC_Init	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:454:6:MX_GPDMA1_Init	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:486:6:MX_ICACHE_Init	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:516:6:MX_RAMCFG_Init	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:545:6:MX_RTC_Init	88	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:615:13:MX_TIM1_Init	120	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:697:13:MX_TIM2_Init	64	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:756:6:MX_USART1_UART_Init	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:804:6:MX_GPIO_Init	24	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:820:6:PWM_SET_FREQ_DUTY_DEADTIME	48	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:862:7:low_pass_filter	32	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:869:8:low_pass_filter_I	32	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:924:6:HAL_ADC_ConvCpltCallback	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:935:9:compute_deadtime_dtg	24	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:954:9:Compute_DTG_From_ns	24	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:967:6:Update_TIM1_DeadTime	24	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:978:6:Sweep_DeadTime_Down	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:992:6:Error_Handler	4	static,ignoring_inline_asm
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/main.c:1010:6:assert_failed	16	static

@@ -1,0 +1,6 @@
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:107:6:P2P_SERVER_Notification	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:173:6:P2P_SERVER_APP_EvtRx	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:210:6:P2P_SERVER_APP_Init	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:229:6:Send_ADC_Value_Notification	24	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:279:13:P2P_SERVER_Switch_c_SendNotification	24	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/App/p2p_server_app.c:325:13:P2P_SERVER_APP_LED_BUTTON_context_Init	8	static

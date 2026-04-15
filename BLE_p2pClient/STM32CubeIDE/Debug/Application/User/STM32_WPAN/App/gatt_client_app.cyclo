@@ -1,0 +1,17 @@
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:200:6:GATT_CLIENT_APP_Init	3
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:251:6:GATT_CLIENT_APP_Notification	5
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:296:9:GATT_CLIENT_APP_Set_Conn_Handle	2
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:313:9:GATT_CLIENT_APP_Get_State	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:318:6:GATT_CLIENT_APP_Discover_services	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:328:9:GATT_CLIENT_APP_Procedure_Gatt	22
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:548:30:Event_Handler	12
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:658:20:gatt_Notification	3
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:719:13:gatt_parse_services	9
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:804:13:gatt_parse_services_by_UUID	2
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:830:13:gatt_parse_chars	16
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:941:13:gatt_parse_descs	19
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:1079:13:gatt_parse_notification	5
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:1119:13:client_discover_all	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:1134:13:gatt_cmd_resp_release	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:1140:13:gatt_cmd_resp_wait	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/gatt_client_app.c:1148:13:P2Pclient_write_char	5

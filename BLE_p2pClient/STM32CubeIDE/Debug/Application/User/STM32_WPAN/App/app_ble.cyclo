@@ -1,0 +1,31 @@
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_system.h:1253:26:LL_FLASH_GetUDN	1
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_system.h:1263:26:LL_FLASH_GetDeviceID	1
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_system.h:1273:26:LL_FLASH_GetSTCompanyID	1
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_utils.h:199:26:LL_GetUID_Word0	1
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_utils.h:208:26:LL_GetUID_Word1	1
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_utils.h:217:26:LL_GetUID_Word2	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:220:6:APP_BLE_Init	2
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:267:28:SVCCTL_App_Notification	28
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:610:22:APP_BLE_Get_Client_Connection_Status	2
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:626:6:APP_BLE_Procedure_Gap_General	12
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:721:6:APP_BLE_Procedure_Gap_Central	7
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:812:16:BleGetBdAddress	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:821:12:SetGapAppearance	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:835:12:SetGapDeviceName	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:849:6:APP_BLE_HostNvmStore	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:864:16:HOST_BLE_Init	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:898:13:Ble_Hci_Gap_Gatt_Init	15
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1121:13:Ble_UserEvtRx	4
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1149:23:BleGenerateBdAddress	4
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1223:23:BleGenerateIRValue	4
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1284:23:BleGenerateERValue	4
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1346:13:BleStack_Process_BG	2
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1354:13:gap_cmd_resp_release	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1360:13:gap_cmd_resp_wait	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1371:13:BLE_ResumeFlowProcessCallback	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1381:13:BLE_NvmCallback	2
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1391:16:analyse_adv_report	13
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1474:13:Connect_Request	4
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1518:12:BLECB_Indication	5
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1560:6:APP_BSP_Button1Action	2
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pClient/STM32_WPAN/App/app_ble.c:1574:6:APP_BSP_Button2Action	3

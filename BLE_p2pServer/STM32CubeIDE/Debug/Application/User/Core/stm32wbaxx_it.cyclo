@@ -1,0 +1,28 @@
+../../Drivers/CMSIS/Include/core_cm33.h:2390:22:__NVIC_EnableIRQ	2
+../../Drivers/CMSIS/Include/core_cm33.h:2428:22:__NVIC_DisableIRQ	2
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_rcc.h:1773:22:LL_RCC_RADIO_DisableSleepTimerClock	1
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_tim.h:5005:22:LL_TIM_ClearFlag_UPDATE	1
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_tim.h:5016:26:LL_TIM_IsActiveFlag_UPDATE	2
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:88:6:NMI_Handler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:104:6:HardFault_Handler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:120:6:MemManage_Handler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:136:6:BusFault_Handler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:152:6:UsageFault_Handler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:168:6:SVC_Handler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:181:6:DebugMon_Handler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:194:6:PendSV_Handler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:207:6:SysTick_Handler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:228:6:RTC_IRQHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:243:6:RCC_IRQHandler	3
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:273:6:GPDMA1_Channel0_IRQHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:287:6:GPDMA1_Channel1_IRQHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:301:6:GPDMA1_Channel2_IRQHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:315:6:TIM2_IRQHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:329:6:USART1_IRQHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:343:6:TIM16_IRQHandler	2
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:369:6:ADC4_IRQHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:383:6:RADIO_IRQHandler	2
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:405:6:HASH_IRQHandler	3
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:436:6:EXTI6_IRQHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:444:6:EXTI7_IRQHandler	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Core/Src/stm32wbaxx_it.c:452:6:EXTI13_IRQHandler	1

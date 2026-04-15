@@ -1,0 +1,35 @@
+../../Drivers/CMSIS/Include/core_cm33.h:2498:26:__NVIC_GetActive	16	static
+../../Drivers/CMSIS/Include/core_cm33.h:2587:22:__NVIC_SetPriority	16	static
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_rcc.h:1783:26:LL_RCC_RADIO_IsEnabledSleepTimerClock	4	static
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_rcc.h:1826:26:LL_RCC_RADIO_GetSleepTimerClockSource	4	static
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_system.h:1253:26:LL_FLASH_GetUDN	4	static
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_system.h:1273:26:LL_FLASH_GetSTCompanyID	4	static
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_pwr.h:1972:26:LL_PWR_GetRadioMode	4	static
+../../Drivers/STM32WBAxx_HAL_Driver/Inc/stm32wbaxx_ll_pwr.h:2036:26:LL_PWR_IsActiveFlag_VOS	4	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:69:6:LINKLAYER_PLAT_ClockInit	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:90:6:LINKLAYER_PLAT_DelayUs	40	static,ignoring_inline_asm
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:148:6:LINKLAYER_PLAT_Assert	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:158:6:LINKLAYER_PLAT_WaitHclkRdy	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:174:6:LINKLAYER_PLAT_NotifyWFIEnter	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:196:6:LINKLAYER_PLAT_NotifyWFIExit	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:211:6:LINKLAYER_PLAT_AclkCtrl	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:242:6:LINKLAYER_PLAT_GetRNG	24	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:269:6:LINKLAYER_PLAT_SetupRadioIT	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:281:6:LINKLAYER_PLAT_SetupSwLowIT	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:294:6:LINKLAYER_PLAT_TriggerSwLowIT	24	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:335:6:LINKLAYER_PLAT_EnableIRQ	16	static,ignoring_inline_asm
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:351:6:LINKLAYER_PLAT_DisableIRQ	16	static,ignoring_inline_asm
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:372:6:LINKLAYER_PLAT_EnableSpecificIRQ	24	static,ignoring_inline_asm
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:419:6:LINKLAYER_PLAT_DisableSpecificIRQ	24	static,ignoring_inline_asm
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:463:6:LINKLAYER_PLAT_EnableRadioIT	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:481:6:LINKLAYER_PLAT_DisableRadioIT	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:499:6:LINKLAYER_PLAT_StartRadioEvt	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:513:6:LINKLAYER_PLAT_StopRadioEvt	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:527:6:LINKLAYER_PLAT_RCOStartClbr	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:545:6:LINKLAYER_PLAT_RCOStopClbr	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:561:6:LINKLAYER_PLAT_RequestTemperature	4	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:570:6:LINKLAYER_PLAT_PhyStartClbr	4	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:586:6:LINKLAYER_PLAT_PhyStopClbr	4	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:602:6:LINKLAYER_PLAT_SCHLDR_TIMING_UPDATE_NOT	16	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:614:10:LINKLAYER_PLAT_GetSTCompanyID	8	static
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/STM32_WPAN/Target/linklayer_plat.c:624:10:LINKLAYER_PLAT_GetUDN	8	static

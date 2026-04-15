@@ -1,0 +1,6 @@
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Projects/Common/WPAN/Modules/RTDebug/RTDebug.c:34:6:SYSTEM_DEBUG_SIGNAL_SET	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Projects/Common/WPAN/Modules/RTDebug/RTDebug.c:41:6:SYSTEM_DEBUG_SIGNAL_RESET	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Projects/Common/WPAN/Modules/RTDebug/RTDebug.c:48:6:SYSTEM_DEBUG_SIGNAL_TOGGLE	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Projects/Common/WPAN/Modules/RTDebug/RTDebug.c:60:6:LINKLAYER_DEBUG_SIGNAL_SET	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Projects/Common/WPAN/Modules/RTDebug/RTDebug.c:67:6:LINKLAYER_DEBUG_SIGNAL_RESET	1
+C:/Users/chomoris/Downloads/SS DA/BLE_p2pServer/Projects/Common/WPAN/Modules/RTDebug/RTDebug.c:74:6:LINKLAYER_DEBUG_SIGNAL_TOGGLE	1
